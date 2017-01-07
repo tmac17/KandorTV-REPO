@@ -1,2 +1,0 @@
-# KandorTV-REPO
-LiveTV Playlist

@@ -1,0 +1,116 @@
+# KandorTV-REPO
+LiveTV Playlist
+#EXTM3U
+#EXTINF:-1,----------KandorTV----------
+#EXTINF:-1,NBC
+http://free-premium-iptv.ddns.net:9090/load/freestreams/1.mpegts
+#EXTINF:-1,ABC
+http://free-premium-iptv.ddns.net:9090/load/freestreams/4.mpegts
+#EXTINF:-1,CBS
+http://plextreamiptv.net:8080/live/MONTY100/100RESTREAMS/11314.m3u8
+#EXTINF:-1,CW
+http://plextreamiptv.net:8080/live/MONTY100/100RESTREAMS/11337.m3u8
+#EXTINF:-1,FOX
+http://free-premium-iptv.ddns.net:9090/load/freestreams/6.mpegts
+#EXTINF:-1,TBS
+http://free-premium-iptv.ddns.net:9090/load/freestreams/9.mpegts
+#EXTINF:-1,TNT
+http://free-premium-iptv.ddns.net:9090/load/freestreams/10.mpegts
+#EXTINF:-1,History
+http://free-premium-iptv.ddns.net:9090/load/freestreams/75.mpegts
+#EXTINF:-1,H2
+http://free-premium-iptv.ddns.net:9090/load/freestreams/76.mpegts
+#EXTINF:-1,ESPN
+http://free-premium-iptv.ddns.net:9090/load/freestreams/45.mpegts
+#EXTINF:-1,ESPN 2
+http://free-premium-iptv.ddns.net:9090/load/freestreams/46.mpegts
+#EXTINF:-1,ESPN NU
+http://free-premium-iptv.ddns.net:9090/load/freestreams/47.mpegts
+#EXTINF:-1,NBC SN
+http://free-premium-iptv.ddns.net:9090/load/freestreams/48.mpegts
+#EXTINF:-1,CBS SN
+http://free-premium-iptv.ddns.net:9090/load/freestreams/49.mpegts
+#EXTINF:-1,Fox Sports 1
+http://free-premium-iptv.ddns.net:9090/load/freestreams/50.mpegts
+#EXTINF:-1,Fox Sports 2
+http://free-premium-iptv.ddns.net:9090/load/freestreams/51.mpegts
+#EXTINF:-1,NBA TV
+http://free-premium-iptv.ddns.net:9090/load/freestreams/52.mpegts
+#EXTINF:-1,MLB Network
+http://free-premium-iptv.ddns.net:9090/load/freestreams/53.mpegts
+#EXTINF:-1,NFL Network
+http://free-premium-iptv.ddns.net:9090/load/freestreams/54.mpegts
+#EXTINF:-1,NFL Now
+http://free-premium-iptv.ddns.net:9090/load/freestreams/55.mpegts
+#EXTINF:-1,SPORTS WORLD
+http://free-premium-iptv.ddns.net:9090/load/freestreams/65.mpegts
+#EXTINF:-1,SPORTSNET 360
+http://free-premium-iptv.ddns.net:9090/load/freestreams/66.mpegts
+#EXTINF:-1,SPORTSNET PACIFIC
+http://free-premium-iptv.ddns.net:9090/load/freestreams/67.mpegts
+#EXTINF:-1,A&E
+http://free-premium-iptv.ddns.net:9090/load/freestreams/2.mpegts
+#EXTINF:-1,AMC
+http://free-premium-iptv.ddns.net:9090/load/freestreams/3.mpegts
+#EXTINF:-1,SYFY
+http://free-premium-iptv.ddns.net:9090/load/freestreams/7.mpegts
+#EXTINF:-1,SPIKE
+http://free-premium-iptv.ddns.net:9090/load/freestreams/8.mpegts
+#EXTINF:-1,TruTV
+http://free-premium-iptv.ddns.net:9090/load/freestreams/14.mpegts
+#EXTINF:-1,Comedy Central
+http://free-premium-iptv.ddns.net:9090/load/freestreams/19.mpegts
+#EXTINF:-1,HBO
+http://free-premium-iptv.ddns.net:9090/load/freestreams/22.mpegts
+#EXTINF:-1,HBO 2
+http://free-premium-iptv.ddns.net:9090/load/freestreams/23.mpegts
+#EXTINF:-1,HBO COMEDY
+http://free-premium-iptv.ddns.net:9090/load/freestreams/24.mpegts
+#EXTINF:-1,HBO ZONE
+http://free-premium-iptv.ddns.net:9090/load/freestreams/25.mpegts
+#EXTINF:-1,HBO SIGNATURE
+http://free-premium-iptv.ddns.net:9090/load/freestreams/26.mpegts
+#EXTINF:-1,HBO FAMILY
+http://free-premium-iptv.ddns.net:9090/load/freestreams/27.mpegts
+#EXTINF:-1,SHOWTIME
+http://free-premium-iptv.ddns.net:9090/load/freestreams/28.mpegts
+#EXTINF:-1,SHOWTIME 2
+http://free-premium-iptv.ddns.net:9090/load/freestreams/29.mpegts
+#EXTINF:-1,SHOWTIME SHOWCASE
+http://free-premium-iptv.ddns.net:9090/load/freestreams/30.mpegts
+#EXTINF:-1,Starz East
+http://free-premium-iptv.ddns.net:9090/load/freestreams/31.mpegts
+#EXTINF:-1,Starz West
+http://free-premium-iptv.ddns.net:9090/load/freestreams/32.mpegts
+#EXTINF:-1,Startz Edge
+http://free-premium-iptv.ddns.net:9090/load/freestreams/33.mpegts
+#EXTINF:-1,Starz Cinema
+http://free-premium-iptv.ddns.net:9090/load/freestreams/34.mpegts
+#EXTINF:-1,Starz Encore
+http://free-premium-iptv.ddns.net:9090/load/freestreams/35.mpegts
+#EXTINF:-1,Starz Comedy
+http://free-premium-iptv.ddns.net:9090/load/freestreams/36.mpegts
+#EXTINF:-1,Starz N Black
+http://free-premium-iptv.ddns.net:9090/load/freestreams/37.mpegts
+#EXTINF:-1,Starz Encode Western
+http://free-premium-iptv.ddns.net:9090/load/freestreams/38.mpegts
+#EXTINF:-1,Cinemax East
+http://free-premium-iptv.ddns.net:9090/load/freestreams/39.mpegts
+#EXTINF:-1,Cinemax 5 StarMax
+http://free-premium-iptv.ddns.net:9090/load/freestreams/40.mpegts
+#EXTINF:-1,Cinemax ActionMax
+http://free-premium-iptv.ddns.net:9090/load/freestreams/41.mpegts
+#EXTINF:-1,Cinemax Moremax
+http://free-premium-iptv.ddns.net:9090/load/freestreams/42.mpegts
+#EXTINF:-1,Space
+http://free-premium-iptv.ddns.net:9090/load/freestreams/43.mpegts
+#EXTINF:-1,The Movie Channel
+http://free-premium-iptv.ddns.net:9090/load/freestreams/44.mpegts
+#EXTINF:-1,Investigation Discovery
+http://free-premium-iptv.ddns.net:9090/load/freestreams/80.mpegts
+#EXTINF:-1,Food Network
+http://free-premium-iptv.ddns.net:9090/load/freestreams/83.mpegts
+#EXTINF:-1,HGTV
+http://free-premium-iptv.ddns.net:9090/load/freestreams/84.mpegts
+#EXTINF:-1,DYI Network
+http://free-premium-iptv.ddns.net:9090/load/freestreams/85.mpegts
