@@ -1,6 +1,8 @@
 # KandorTV-REPO
 LiveTV Playlist
 #EXTM3U
+#EXTINF:-1,----------KandorTV----------
+http://filler.ts
 #EXTINF:-1,NBC
 http://free-premium-iptv.ddns.net:9090/load/freestreams/1.mpegts
 #EXTINF:-1,ABC
@@ -113,5 +115,3 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/83.mpegts
 http://free-premium-iptv.ddns.net:9090/load/freestreams/84.mpegts
 #EXTINF:-1,DYI Network
 http://free-premium-iptv.ddns.net:9090/load/freestreams/85.mpegts
-#EXTINF:-1,TEST
-http://iptv4smart.dtdns.net:8000/live/ramyonk/vOo8J0Iznu/3359.ts
