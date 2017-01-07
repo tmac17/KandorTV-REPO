@@ -35,6 +35,20 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/49.mpegts
 http://free-premium-iptv.ddns.net:9090/load/freestreams/50.mpegts
 #EXTINF:-1,Fox Sports 2
 http://free-premium-iptv.ddns.net:9090/load/freestreams/51.mpegts
+#EXTINF:0,Updated:8/15-PAC 12 Network
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:0,Updated:8/15-PAC 12 Arizona
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:0,Updated:8/15-PAC 12 Bay Area
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:0,Updated:8/15-PAC 12 Los Angeles
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:0,Updated:8/15-PAC 12 Mountain
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0,Updated:8/15-PAC 12 Oregon
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:0,Updated:8/15-PAC 12 Washington
+http://xrxs.net/video/live-p12wash-4728.m3u8
 #EXTINF:-1,NBA TV
 http://free-premium-iptv.ddns.net:9090/load/freestreams/52.mpegts
 #EXTINF:-1,MLB Network
@@ -115,3 +129,5 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/83.mpegts
 http://free-premium-iptv.ddns.net:9090/load/freestreams/84.mpegts
 #EXTINF:-1,DYI Network
 http://free-premium-iptv.ddns.net:9090/load/freestreams/85.mpegts
+#EXTINF:-1,TEST
+http://iptv4smart.dtdns.net:8000/live/ramyonk/vOo8J0Iznu/3359.M3U8
