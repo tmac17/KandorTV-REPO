@@ -5,7 +5,7 @@ LiveTV Playlist
 http://filler.ts
 #EXTINF:-1,NBC
 http://free-premium-iptv.ddns.net:9090/load/freestreams/1.mpegts
-#EXTINF:-1, tvg-logo="https://www.team-mediaportal.com/media/com_mtree/images/listings/m/1924.png", ABC
+#EXTINF:-1 tvg-logo="https://www.team-mediaportal.com/media/com_mtree/images/listings/m/1924.png", ABC
 http://free-premium-iptv.ddns.net:9090/load/freestreams/4.mpegts
 #EXTINF:-1,CBS
 http://plextreamiptv.net:8080/live/MONTY100/100RESTREAMS/11314.m3u8
