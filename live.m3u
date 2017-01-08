@@ -3,6 +3,8 @@ LiveTV Playlist
 #EXTM3U
 #EXTINF:-1,NBC
 http://free-premium-iptv.ddns.net:9090/load/freestreams/1.mpegts
+#EXTINF:-1,NBC New-York
+http://62.210.249.138:8080/live/pepito/pepito/442.ts
 #EXTINF:-1,ABC
 http://free-premium-iptv.ddns.net:9090/load/freestreams/4.mpegts
 #EXTINF:-1,CBS
@@ -23,7 +25,7 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/76.mpegts
 http://free-premium-iptv.ddns.net:9090/load/freestreams/45.mpegts
 #EXTINF:-1,ESPN 2
 http://free-premium-iptv.ddns.net:9090/load/freestreams/46.mpegts
-#EXTINF:-1,ESPN NU
+#EXTINF:-1,ESPNU
 http://free-premium-iptv.ddns.net:9090/load/freestreams/47.mpegts
 #EXTINF:-1,NBC SN
 http://free-premium-iptv.ddns.net:9090/load/freestreams/48.mpegts
@@ -33,19 +35,19 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/49.mpegts
 http://free-premium-iptv.ddns.net:9090/load/freestreams/50.mpegts
 #EXTINF:-1,Fox Sports 2
 http://free-premium-iptv.ddns.net:9090/load/freestreams/51.mpegts
-#EXTINF:0,Updated:8/15-PAC 12 Network
+#EXTINF:0,PAC 12 Network
 http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:0,Updated:8/15-PAC 12 Arizona
+#EXTINF:0,PAC 12 Arizona
 http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:0,Updated:8/15-PAC 12 Bay Area
+#EXTINF:0,PAC 12 Bay Area
 http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:0,Updated:8/15-PAC 12 Los Angeles
+#EXTINF:0,PAC 12 Los Angeles
 http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:0,Updated:8/15-PAC 12 Mountain
+#EXTINF:0,PAC 12 Mountain
 http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:0,Updated:8/15-PAC 12 Oregon
+#EXTINF:0,PAC 12 Oregon
 http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:0,Updated:8/15-PAC 12 Washington
+#EXTINF:0,PAC 12 Washington
 http://xrxs.net/video/live-p12wash-4728.m3u8
 #EXTINF:-1,NBA TV
 http://free-premium-iptv.ddns.net:9090/load/freestreams/52.mpegts
