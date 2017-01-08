@@ -2,6 +2,8 @@
 LiveTV Playlist
 #EXTM3U
 #EXTINF:-1,NBC
+http://46.234.113.121:1935/live/nbc01_augqlbj1/playlist.m3u8?t=xwqRhn5dC
+#EXTINF:-1,---
 http://free-premium-iptv.ddns.net:9090/load/freestreams/1.mpegts
 #EXTINF:-1,NBC New-York
 http://62.210.249.138:8080/live/pepito/pepito/442.ts
