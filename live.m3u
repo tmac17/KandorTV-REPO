@@ -2,7 +2,7 @@
 LiveTV Playlist
 #EXTM3U
 #EXTINF:-1,NBC
-http://usachannels.tv/nbc_live.php
+http://ilv52.is.ustvnow.com:80/ilv52/mp4:3867AWGALUSTVNOW3/playlist.m3u8?key=tbd&quot;)
 #EXTINF:-1, FAIL
 http://free-premium-iptv.ddns.net:9090/load/freestreams/1.mpegts
 #EXTINF:-1,ABC
