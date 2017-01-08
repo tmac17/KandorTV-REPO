@@ -1,8 +1,6 @@
 # KandorTV-REPO
 LiveTV Playlist
 #EXTM3U
-#EXTINF:-1,----------JOSH----------
-http://filler.ts
 #EXTINF:-1,NBC
 http://free-premium-iptv.ddns.net:9090/load/freestreams/1.mpegts
 #EXTINF:-1,ABC
