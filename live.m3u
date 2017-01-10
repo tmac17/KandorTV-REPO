@@ -17,7 +17,7 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/9.mpegts
 http://free-premium-iptv.ddns.net:9090/load/freestreams/10.mpegts
 #EXTINF:-1    group-title="LIVE TV",History Channel
 http://free-premium-iptv.ddns.net:9090/load/freestreams/75.mpegts
-#EXTINF:-1,    group-title="LIVE TV"H2
+#EXTINF:-1    group-title="LIVE TV",H2
 http://free-premium-iptv.ddns.net:9090/load/freestreams/76.mpegts
 #EXTINF:-1    group-title="SPORTS",ESPN
 http://free-premium-iptv.ddns.net:9090/load/freestreams/45.mpegts
