@@ -19,7 +19,7 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/10.mpegts
 http://free-premium-iptv.ddns.net:9090/load/freestreams/75.mpegts
 #EXTINF:-1,H2
 http://free-premium-iptv.ddns.net:9090/load/freestreams/76.mpegts
-#EXTINF:-1,ESPN
+#EXTINF:-1    group-title="SPORTS",ESPN
 http://free-premium-iptv.ddns.net:9090/load/freestreams/45.mpegts
 #EXTINF:-1,ESPN 2
 http://free-premium-iptv.ddns.net:9090/load/freestreams/46.mpegts
