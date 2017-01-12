@@ -1,6 +1,8 @@
 # KandorTV-REPO
 LiveTV Playlist
 #EXTM3U
+#EXTINF:-1    group-title="LIVE TV",ESPN_TEST
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1053.ts
 #EXTINF:-1    group-title="LIVE TV",NBC
 http://free-premium-iptv.ddns.net:9090/load/freestreams/1.mpegts
 #EXTINF:-1    group-title="LIVE TV",ABC
