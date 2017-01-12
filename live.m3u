@@ -46,7 +46,7 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/54.mpegts
 #EXTINF:-1    group-title="SPORTS",NFL Now
 http://free-premium-iptv.ddns.net:9090/load/freestreams/55.mpegts
 #EXTINF:-1    group-title="LIVE TV",A&E
-http://free-premium-iptv.ddns.net:9090/load/freestreams/2.mpegts
+http://217.23.12.7:58080/live/wallou83/9pZre6mWgu/1083.ts
 #EXTINF:-1    group-title="LIVE TV",AMC
 http://free-premium-iptv.ddns.net:9090/load/freestreams/3.mpegts
 #EXTINF:-1    group-title="LIVE TV",SYFY
